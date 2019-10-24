@@ -1,2 +1,2 @@
 # Just.java
-学习java
+学习算法.java
